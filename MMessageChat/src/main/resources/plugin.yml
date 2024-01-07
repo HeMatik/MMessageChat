@@ -1,0 +1,6 @@
+name: MMessageChat
+version: '${project.version}'
+main: me.matt.mmessagechat.MMessageChat
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: A plugin that displays player's messages above their head. The message follows the player and disappears after 7 seconds
